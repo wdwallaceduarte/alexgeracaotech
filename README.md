@@ -1,67 +1,200 @@
-# 👋 Olá, eu sou Alex Bessa
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wdwallaceduarte.wdwallaceduarte" />
+</p>
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Web;Educador+de+Tecnologia;Amante+de+Computarias;)
-  
-</div>
+# 🧑‍💻 Olá, sou Wallace Duarte
+# 🧑‍💻 Olá, sou Wallace Duarte
+## Bem-Vindos(as) ao meu GitHub!
 
-## 🚀 Sobre Mim
+**`Desenvolvedor FullStack`**
 
-Sou **desenvolvedor** e **educador** apaixonado por tecnologia e pelo compartilhamento de conhecimento.
-```typescript
-const alex = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  technologies: {
-    frontend: ["React", "Next.js"],
-    backend: ["Node.js", "Express"],
-    database: ["PostgreSQL", "Prisma ORM"],
-    devOps: ["Docker", "Git", "Linux"]
-  },
-  currentFocus: "Construindo experiências web excepcionais",
-  funFact: "Acredito que ensinar é a melhor forma de aprender"
-};
-```
+ Iniciei meus estudos na área de desenolivmento desde Março de 2025. 
+ <br/>
+ <!--Forma de cirar links 
+ [LinckedIn - Wallace Duarte](www.linkedin.com/in/wallace-duarte-9a241a29a)-->
 
-## 💻 Stack Tecnológica
+<p align="center">   
+     <a href="https://github.com/wdwallaceduarte">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+    <a href="https://github.com/wdwallaceduarte?tab=repositories">
+        <img 
+            alt="Repositorios" 
+            title="Meus Repositorios" 
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repositories-blue?style=for-the-badge&logoColor=white&logo=repo"
+        />
+    </a>
+    <!-- Seguidores do GitHub -->
+    <a href="https://github.com/wdwallaceduarte?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/wdwallaceduarte?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/wallace-duarte-9a241a29a">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src=https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
+        />
+    </a>    
+</p>
 
-<div align="center">
+---
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### 🤖 Linguagens e Tecnologias
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<!-- <img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/> -->
+<!-- <img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/> -->
+<!-- <img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/> -->
+<!-- <img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/> -->
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<!-- <img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/> -->
 
-### DevOps & Ferramentas
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br/>
+<br/>
 
-</div>
+## 📊 GitHub Stats
 
-## 🎯 O que eu faço
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  &nbsp;
+  <img 
+    alt="Top Linguagens" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdwallaceduarte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
-- 🔭 Desenvolvimento de aplicações web full stack
-- 🌱 Constantemente aprendendo novas tecnologias
-- 👨‍🏫 Ensinando programação e compartilhando conhecimento
-- 💡 Contribuindo para projetos open source
-- 🤝 Colaborando com a comunidade de desenvolvedores
 
-<div align="center">
-  
-  ### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=alexbessa.alexbessa)
-  
-  ⭐️ From [alexgeracaotech](https://github.com/alexbessa)
-  
-</div>
+<!-- ### 📊 Estatísticas 
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdwallaceduarte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p> 
+-->
